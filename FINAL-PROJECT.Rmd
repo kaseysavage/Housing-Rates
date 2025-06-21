@@ -1,5 +1,5 @@
 ---
-title: "Final Project" 
+title: "Economic Indicators vs Home-Ownership" 
 author: "Kasey Savage"
 output: 
   pdf_document: 
